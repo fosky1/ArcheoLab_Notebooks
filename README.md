@@ -9,6 +9,7 @@ In this repository you can find the notebooks that has been used as introductory
 | [Tutorial 2 – CT](Tutorial2-CT.ipynb) | Introduction to Computed Tomography - Part 2 |
 | [Tutorial 3 – GAs Part 1](Tutorial3%20-%20GAs%20Part%201.ipynb) | Genetic Algorithms – Fundamentals |
 | [Tutorial 4 – GAs Part 2](Tutorial4%20-%20GAs%20Part%202.ipynb) | Genetic Algorithms – Knapsack Problem |
+| [Homework - GAs and DEAP](Homework%20-%20GAs%20and%20DEAP.ipynb) | Guided implementation of an optimization algorithm using DEAP |
 
 The notebooks can be run locally with Jupyter.
 
